@@ -32,7 +32,6 @@
     "@types/inquirer": "^9.0.7",
     "@types/node": "^20.0.0",
     "@types/swagger-ui-express": "^4.1.6",
-    "husky": "^8.0.0",
     "prettier": "^3.1.0",
     "semantic-release": "^22.0.8",
     "swagger-autogen": "^2.23.7",
